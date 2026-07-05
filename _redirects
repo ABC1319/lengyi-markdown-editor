@@ -1,1 +1,2 @@
-/*    /markdown-editor.html    200
+# 只匹配不是markdown-editor.html的路径
+!/markdown-editor.html    /*    /markdown-editor.html    200
